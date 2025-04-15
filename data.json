@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "activo": true,
+      "precio": 150.5,
+      "stock": 1,
+      "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/1.jpg",
+      "descripcion": "descripcion de prueba",
+      "alto": 5,
+      "ancho": 10,
+      "largo": 10,
+      "categoria": "SALA",
+      "favorito": false,
+      "carrito": false,
+      "nombre": "sofa de prueba",
+      "color1": "PLOMO",
+      "color2": "ROJO",
+      "color3": "NEGRO"
+    },
+    {
+      "id": 2,
+      "activo": true,
+      "precio": 110.5,
+      "stock": 2,
+      "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/2.jpg",
+      "descripcion": "descripcion de prueba 2",
+      "alto": 5,
+      "ancho": 10,
+      "largo": 10,
+      "categoria": "SALA",
+      "favorito": false,
+      "carrito": false,
+      "nombre": "sofa de prueba",
+      "color1": "PLOMO",
+      "color2": "ROJO",
+      "color3": "NEGRO"
+    }
+  ]
+}
