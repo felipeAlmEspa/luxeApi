@@ -35,6 +35,24 @@
       "color1": "PLOMO",
       "color2": "ROJO",
       "color3": "NEGRO"
+    },
+    {
+      "id": 3,
+      "activo": true,
+      "precio": 110.5,
+      "stock": 2,
+      "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/3.jpg",
+      "descripcion": "descripcion de prueba 2",
+      "alto": 5,
+      "ancho": 10,
+      "largo": 10,
+      "categoria": "HABITACIÓN",
+      "favorito": false,
+      "carrito": false,
+      "nombre": "sofa de prueba",
+      "color1": "PLOMO",
+      "color2": "ROJO",
+      "color3": "NEGRO"
     }
   ]
 }
