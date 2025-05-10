@@ -17,7 +17,8 @@
       "nombre": "sofa de prueba",
       "color1": "PLOMO",
       "color2": "ROJO",
-      "color3": "VERDE"
+      "color3": "VERDE",
+      "sincronizado": true
     },
     {
       "id": 2,
@@ -36,7 +37,8 @@
       "nombre": "sofa de prueba",
       "color1": "PLOMO",
       "color2": "ROJO",
-      "color3": "NEGRO"
+      "color3": "NEGRO",
+      "sincronizado": true
     },
     {
       "id": 3,
@@ -55,7 +57,8 @@
       "nombre": "sofa de prueba",
       "color1": "PLOMO",
       "color2": "ROJO",
-      "color3": "NEGRO"
+      "color3": "NEGRO",
+      "sincronizado": true
     }
   ]
 }
