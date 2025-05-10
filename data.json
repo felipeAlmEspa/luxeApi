@@ -2,6 +2,7 @@
   "data": [
     {
       "id": 1,
+      "proUuId": "52da0141-e104-4885-8dd1-0c4ffefb01bf",
       "activo": true,
       "precio": 150.5,
       "stock": 1,
@@ -20,6 +21,7 @@
     },
     {
       "id": 2,
+      "proUuId": "59c3a0a2-6006-47da-a24b-d99edb6eb22c",
       "activo": true,
       "precio": 110.5,
       "stock": 2,
@@ -38,28 +40,11 @@
     },
     {
       "id": 3,
+      "proUuId": "883fbfb8-67bc-4b90-a4de-35819f8d6643",
       "activo": true,
       "precio": 110.5,
       "stock": 2,
       "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/3.jpg",
-      "descripcion": "descripcion de prueba 2",
-      "alto": 5,
-      "ancho": 10,
-      "largo": 10,
-      "categoria": "HABITACIÓN",
-      "favorito": false,
-      "carrito": false,
-      "nombre": "sofa de prueba",
-      "color1": "PLOMO",
-      "color2": "ROJO",
-      "color3": "NEGRO"
-    },
-    {
-      "id": 4,
-      "activo": true,
-      "precio": 110.5,
-      "stock": 2,
-      "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/4.jpg",
       "descripcion": "descripcion de prueba 2",
       "alto": 5,
       "ancho": 10,
