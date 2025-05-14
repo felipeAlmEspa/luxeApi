@@ -76,5 +76,31 @@
     "color2": "Morado",
     "color3": "Cian",
     "sincronizado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Gutiérrez ",
+    "proUuId": "4406ac26-003b-4f55-b677-a68e9902927e",
+    "descripcion": "Test",
+    "precio": 20,
+    "imagenUrl": "https://raw.githubusercontent.com/felipeAlmEspa/luxeApi/main/assets/4406ac26-003b-4f55-b677-a68e9902927e.jpeg",
+    "imagenUrlLocal": "file:///data/user/0/com.applicationsec.primeapp/cache/ImagePicker/4406ac26-003b-4f55-b677-a68e9902927e.jpeg",
+    "categoria": "",
+    "stock": 20,
+    "marca": "",
+    "modelo": "",
+    "tamano": "",
+    "peso": 20,
+    "alto": 20,
+    "ancho": 20,
+    "largo": 20,
+    "activo": true,
+    "descuento": 20,
+    "favorito": false,
+    "carrito": false,
+    "color1": "Naranja",
+    "color2": "Morado",
+    "color3": "Cian",
+    "sincronizado": false
   }
 ]
